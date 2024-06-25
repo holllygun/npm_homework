@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holllygun/npm_homework.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Anastasia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holllygun/npm_homework/issues"
+  },
+  "homepage": "https://github.com/holllygun/npm_homework#readme"
+}
